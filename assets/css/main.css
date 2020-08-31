@@ -51,6 +51,10 @@ table {
 	border-spacing: 0;
 }
 
+.space {
+	padding-top: 20px;
+}
+
 body {
 	-webkit-text-size-adjust: none;
 }
