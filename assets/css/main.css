@@ -52,7 +52,7 @@ table {
 }
 
 .space {
-	padding-bottom: 20px;
+	padding-bottom: 20px !important;
 }
 
 body {
